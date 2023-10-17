@@ -1,4 +1,4 @@
----
+https://luck365op.info/account/register/yes122
 id: docs_getting_started
 guide: docs_getting_started
 layout: guide
